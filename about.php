@@ -1,4 +1,4 @@
-  <?php
+<?php
 session_start();
 ?>
 
@@ -40,14 +40,14 @@ include("header.php");
       <div>
       	<h2><u>About Us</u></h2>
       </div>
-      <div class="wel_line"><center><h3>WELCOME TO TIXIE THEATER  </h3></center></div>
+      <div class="wel_line"><center><h3>WELCOME TO TIXIE  </h3></center></div>
     </div>
     <div class="row feature design">
 
       <div class="area1 columns left">
         
-      <h5>TIXIE Theater adalah merek pameran film yang paling dikenal di negara ini, yang memiliki standar tinggi dalam 'Kemewahan', 'Pelayanan', dan 'Teknologi'.</h5>
-    <p>Saat ini dengan jaringan bioskop sebanyak 450+ layar yang tersebar di lebih dari 100 properti yang mencakup 100+ kota di seluruh negeri.
+      <h5>TIXIE menyediakan jasa tiket bioskop online dengan pilihan yang lengkap dan pembayaran yang bervariasi.</h5>
+    <p>Saat ini dengan banyaknya bioskop yang tersebar di lebih dari 100 properti yang mencakup 100+ kota di seluruh negeri.
     Hal terbaik tentang penggunaannya adalah kesederhanaan dan kemudahan dengan mana seseorang dapat memesan tiket secara online. Berasal dari Semarang, yang memiliki warisan sinema yang kaya, kami adalah jaringan teater dengan semangat untuk pengalaman dan semangat yang lebih besar untuk berbagi dengan pelanggan kami. Kami memahami kegembiraan menonton cerita favorit kami menjadi hidup di layar besar, dan kami percaya bahwa tugas kami adalah pergi lebih jauh untuk membuat pengalaman ini semakin mendalam sebisa mungkin!
 
     <br>
@@ -84,11 +84,11 @@ Tersedia selama 24 jam sehari, 7 hari seminggu.</p>
                                                 <div class="dvPatConetnt">
                                                     <div class="dvPatronDesc">
                                                         <div class="dvPatronDescHead">
-                                                            Luxury
+                                                            Mobility
 
                                                         </div>
                                                         <div class="dvPatronDescText">
-                                                           TIXIE Theater adalah merek pameran film yang paling dikenal di negara ini, yang memiliki standar tinggi dalam 'Kemewahan', 'Pelayanan', dan 'Teknologi'.
+                                                           TIXIE memberikan kemudahan dalam membeli tiket bioskop memnungkinkan pengguna dapat mengakses fasilitas kami kapan saja dimana saja.
                                                         </div>
                                                     </div>
                                                 </div>
@@ -106,7 +106,7 @@ Tersedia selama 24 jam sehari, 7 hari seminggu.</p>
                                                             Service
                                                         </div>
                                                         <div class="dvPatronDescText">
-                                                         Weekend atau weekday kami selalu siap melayani anda dengan baik
+                                                         Selalu online untuk pengalaman pengguna yang lebih baik.
                                                         </div>
                                                     </div>
                                                 </div>
@@ -125,7 +125,7 @@ Tersedia selama 24 jam sehari, 7 hari seminggu.</p>
                                                             Technology
                                                         </div>
                                                         <div class="dvPatronDescText">
-                                                            Baik itu proyeksi maupun sound system kami selalu mengikuti perkembangan teknologi terbaru
+                                                            Memberikan Kemudahan dalam mengakses website dengan tampilan yang friendly dan aman.
 
 
                                                         </div>
