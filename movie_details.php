@@ -1,5 +1,4 @@
 <h2>
-	HALLO CYNTHIA
 </h2>
 
 <?php
