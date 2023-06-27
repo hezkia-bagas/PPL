@@ -1,4 +1,8 @@
-  <?php
+<h2>
+	HALLO CYNTHIA
+</h2>
+
+<?php
 session_start();
 
         include_once 'Database.php';
